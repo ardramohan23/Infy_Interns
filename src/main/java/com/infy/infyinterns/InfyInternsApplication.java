@@ -8,6 +8,7 @@ public class InfyInternsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InfyInternsApplication.class, args);
+		String v="Hello World";
 	}
 
 }
